@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SecurityApp</string>
+    <string name="device_name">Device Name</string>
+    <string name="device_ip">Device IP Address</string>
+    <string name="device_port">Device Port</string>
+    <string name="add_device">Add Device</string>
+    <string name="save">Save</string>
+    <string name="no_devices">No device added yet! Click the add button to add new device</string>
+</resources>

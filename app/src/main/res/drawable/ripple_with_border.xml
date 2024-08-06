@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background layer -->
+    <item>
+        <shape>
+            <solid android:color="#FFFFFF" /> <!-- Background color -->
+        </shape>
+    </item>
+    <!-- Border layer -->
+    <item>
+        <shape>
+            <solid android:color="@android:color/transparent" />
+            <stroke android:width="1dp" android:color="#507E7983" /> <!-- Border color with opacity -->
+        </shape>
+    </item>
+    <!-- Ripple effect layer -->
+    <item>
+        <ripple android:color="#257E7983"> <!-- Ripple color with opacity -->
+            <item android:id="@android:id/mask">
+                <shape android:shape="rectangle">
+                    <solid android:color="#257E7983" /> <!-- Same ripple color for the mask -->
+                </shape>
+            </item>
+        </ripple>
+    </item>
+</layer-list>

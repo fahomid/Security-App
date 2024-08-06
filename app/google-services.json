@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264442725758",
+    "project_id": "test-4c119",
+    "storage_bucket": "test-4c119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264442725758:android:3f8c30e8400fa12d265f2f",
+        "android_client_info": {
+          "package_name": "com.fahomid.securityapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8bHPlZZBTc1hbQ5gyzcGTVQ7jPMQPC54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
